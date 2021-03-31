@@ -37,7 +37,7 @@ function WeWantDeveloper() {
         mailto : dev@payple.kr;
     }
     else {
-        WeSupportYourDream!!;
+        WeSupportYourDream!!!;
     }
 };
 ```
