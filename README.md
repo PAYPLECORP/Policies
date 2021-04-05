@@ -6,34 +6,29 @@
 
 ## 폴더 설명
 
-> 파트너사의 결제페이지는 payment폴더의 컨텐츠를 이용해 주세요.
-
-- web : 홈페이지에서 사용하는 약관입니다.
-- payment : 결제페이지에서 사용하는 약관입니다.
-
----
-
 - txt : utf-8인코딩, 태그를 제외시킨 text파일 입니다.
 - html : 태그가 추가된 html파일 입니다. (예정)
 - md : mark down 파일입니다. (예정)
 
 ## 파일설명
 
-- finsandbox-terms : 혁신금융서비스 이용약관
-- fintech-terms : 전자금융거래 이용약관
-- privacy : 개인정보처리방침
+> 파트너사의 결제페이지는 payment폴더의 컨텐츠를 이용해 주세요.
 
----
-
-- bank-carrier-terms : [계좌] 통신사 이용약관
-- bank-finsandbox-terms : [계좌] 혁신금융서비스 이용약관
-- bank-identify-consignment-terms : [계좌] 고유식별정보처리 동의
-- bank-identify-terms : [게좌] 본인확인서비스 이용약관
-- bank-privacy-consignment : [계좌] 개인정보 수집이용취급 동의
-- card-regular-terms : [카드] 정기결제 이용약관
-- common-fintech-terms : [공통] 전자금융거래 이용약관
-- common-privacy-consignment : [공통] 개인정보 제공 및 위탁 동의
-- common-privacy : [공통] 개인정보처리방침
+- web : 홈페이지에서 사용하는 약관입니다.
+  - finsandbox-terms : 혁신금융서비스 이용약관
+  - fintech-terms : 전자금융거래 이용약관
+  - privacy : 개인정보처리방침
+  
+- payment : 결제페이지에서 사용하는 약관입니다.
+  - bank-carrier-terms : [계좌] 통신사 이용약관
+  - bank-finsandbox-terms : [계좌] 혁신금융서비스 이용약관
+  - bank-identify-consignment-terms : [계좌] 고유식별정보처리 동의
+  - bank-identify-terms : [게좌] 본인확인서비스 이용약관
+  - bank-privacy-consignment : [계좌] 개인정보 수집이용취급 동의
+  - card-regular-terms : [카드] 정기결제 이용약관
+  - common-fintech-terms : [공통] 전자금융거래 이용약관
+  - common-privacy-consignment : [공통] 개인정보 제공 및 위탁 동의
+  - common-privacy : [공통] 개인정보처리방침
 
 ## Version 정보
 
