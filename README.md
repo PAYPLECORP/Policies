@@ -18,6 +18,7 @@
   - finsandbox-terms : 혁신금융서비스 이용약관
   - fintech-terms : 전자금융거래 이용약관
   - privacy : 개인정보처리방침
+  - check-payment-privacy : 결제내역조회 개인정보처리방침
   
 - payment : 결제페이지에서 사용하는 약관입니다.
   - bank-carrier-terms : [계좌] 통신사 이용약관
