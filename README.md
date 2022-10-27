@@ -29,7 +29,7 @@
   - card-regular-terms : [카드] 정기결제 이용약관
   - common-fintech-terms : [공통] 전자금융거래 이용약관
   - common-privacy-consignment : [공통] 개인정보 제공 및 위탁 동의
-  - common-privacy : [공통] 개인정보처리방침
+  - common-privacy : [공통] 개인정보 수집 및 이용 동의
 
 ## Version 정보
 
@@ -40,7 +40,7 @@
 
 >상기 프로젝트는 페이플 개발팀에서 진행중입니다.  
 페이플은 Payment Must Be Simple을 모토로  
-사용자에게는 간단하며 쉬운 결제를 제공하며,  
+사용자에게는 간단하며 쉬운 결제를 제공하고 
 파트너에게는 빠른 결제 도입을 제공합니다.  
 멋진 아이디어로 서비스를 제작하셨나요?  
 심플한 API로 결제 도입을 도와드립니다.  
