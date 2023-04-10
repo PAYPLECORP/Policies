@@ -30,9 +30,16 @@
   - common-fintech-terms : [공통] 전자금융거래 이용약관
   - common-privacy-consignment : [공통] 개인정보 제공 및 위탁 동의
   - common-privacy : [공통] 개인정보 수집 및 이용 동의
-
+  
+- globalPayment : 해외 결제페이지 에서 사용하는 약관입니다.
+    - privacyPolicy_ko : 개인정보처리방침 - 국문
+    - privacyPolicy_en : 개인정보처리방침 - 영문
+    - termsAndCondition_ko : 서비스이용약관 - 국문
+    - termsAndCondition_en : 서비스이용약관 - 영문
+    - thirdParties_ko : 개인정보 제3자 제공동의 - 국문
+    - thirdParties_en : 개인정보 제3자 제공동의 - 영문
 ## Version 정보
-
+- v 1.2 : 해외 결제 페이지 약관 추가
 - v 1.1 : 결제페이지, 홈페이지 구분
 - v 1.0 : 베타버전 배포
 
