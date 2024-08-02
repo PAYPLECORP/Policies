@@ -196,7 +196,7 @@ Person in charge of personal information protection
 - Name: Kim Hyun-chul, CEO
 
 Personnel of personal information protection
-- Name: So Yeol, CTO
+- Name: Byungseok Shin , Team Leader
 
 Phone number: +82-2-1522-5013
 Email: help@payple.kr
